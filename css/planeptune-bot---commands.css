@@ -1,0 +1,208 @@
+.version.planeptune_bot___commands {
+	color: #000019;
+	background-color: #C27F83;
+}
+#muse_css_mq {
+	background-color: #FFFFFF;
+}
+#page {
+	z-index: 1;
+	width: 960px;
+	min-height: 500px;
+	background-image: none;
+	border-width: 0px;
+	border-color: #000000;
+	background-color: transparent;
+	margin-left: auto;
+	margin-right: auto;
+}
+#u1665 {
+	z-index: 25;
+	width: 50px;
+	min-height: 25px;
+	border-width: 0px;
+	border-color: transparent;
+	background-color: transparent;
+	position: relative;
+	margin-right: -10000px;
+	margin-top: 230px;
+	left: -141px;
+}
+#pu1618-6 {
+	z-index: 2;
+	width: 0.01px;
+	margin-right: -10000px;
+	margin-top: 62px;
+	margin-left: 69px;
+}
+#u1618-6 {
+	z-index: 2;
+	width: 822px;
+	min-height: 93px;
+	background-color: transparent;
+	text-align: center;
+	color: #FFFFFF;
+	font-family: ubuntu, sans-serif;
+	font-weight: 700;
+	position: relative;
+}
+#u1618-2 {
+	font-size: 36px;
+	line-height: 43px;
+}
+#u1618-4 {
+	font-size: 24px;
+	line-height: 29px;
+}
+#pu1621 {
+	z-index: 8;
+	width: 0.01px;
+	margin-left: 175px;
+	margin-top: 14px;
+}
+#u1621 {
+	z-index: 8;
+	width: 473px;
+	min-height: 120px;
+	border-width: 0px;
+	border-color: transparent;
+	background-color: transparent;
+	color: #FFFFFF;
+	text-align: center;
+	font-size: 18px;
+	line-height: 22px;
+	font-family: ubuntu, sans-serif;
+	font-weight: 700;
+	position: relative;
+	margin-right: -10000px;
+}
+#u1632 {
+	z-index: 9;
+	width: 191px;
+	border-width: 0px;
+	border-color: transparent;
+	background-color: transparent;
+	position: relative;
+	margin-right: -10000px;
+	margin-top: 84px;
+	left: 141px;
+}
+#u1626 {
+	z-index: 10;
+	width: 191px;
+	-webkit-transition-duration: 0.5s;
+	-webkit-transition-delay: 0s;
+	-webkit-transition-timing-function: cubic-bezier(.39,.18,.38,1.34);
+	transition-duration: 0.5s;
+	transition-delay: 0s;
+	transition-timing-function: cubic-bezier(.39,.18,.38,1.34);
+	background-image: url("../images/blank.gif?crc=4208392903");
+	background-color: #B689C3;
+	border-radius: 49px;
+	padding-bottom: 10px;
+	position: relative;
+	margin-right: -10000px;
+}
+#u1626:hover {
+	background-color: #CFA2C3;
+	border-radius: 10px;
+	width: 191px;
+	min-height: 0px;
+	margin: 0px -10000px 0px 0px;
+	transition-timing-function: cubic-bezier(.39,.18,.41,1.44);
+}
+#u1626:active {
+	box-shadow: 0px 0px 8px rgba(255,255,255,0.5), 0px 0px 8px rgba(255,255,255,0.5)/* glow */, 4px 4px 4px rgba(0,0,0,0.5)/* drop shadow*/;
+	background-color: #E1A2C3;
+	border-radius: 49px;
+	width: 191px;
+	min-height: 0px;
+	margin: 0px -10000px 0px 0px;
+}
+#u1629-4 {
+	z-index: 11;
+	width: 142px;
+	min-height: 24px;
+	background-color: transparent;
+	color: #FFFFFF;
+	line-height: 30px;
+	text-align: center;
+	font-size: 25px;
+	font-family: ubuntu, sans-serif;
+	font-weight: 700;
+	position: relative;
+	margin-right: -10000px;
+	margin-top: 11px;
+	left: 22px;
+}
+.css_verticalspacer .verticalspacer {
+	height: calc(100vh - 402px);
+}
+#pu1635 {
+	z-index: 15;
+	width: 0.01px;
+	margin: -76px -10000px -69px -96px;
+}
+#u1635 {
+	z-index: 15;
+	width: 207px;
+	background-color: transparent;
+	position: relative;
+	margin-right: -10000px;
+}
+#u1652 {
+	z-index: 19;
+	width: 207px;
+	min-height: 207px;
+	border-width: 0px;
+	border-color: transparent;
+	background-color: transparent;
+	position: relative;
+	margin-right: -10000px;
+}
+#u1662-4 {
+	z-index: 21;
+	width: 227px;
+	min-height: 20px;
+	background-color: transparent;
+	color: #FFFFFF;
+	font-family: ubuntu, sans-serif;
+	font-weight: 700;
+	position: relative;
+	margin-right: -10000px;
+	margin-top: 42px;
+	left: 367px;
+}
+#pu1642 {
+	z-index: 17;
+	width: 0.01px;
+	margin: -70px -10000px -50px 876px;
+}
+#u1642 {
+	z-index: 17;
+	width: 182px;
+	background-color: transparent;
+	position: relative;
+	margin-right: -10000px;
+}
+#u1657 {
+	z-index: 20;
+	width: 182px;
+	min-height: 182px;
+	border-width: 0px;
+	border-color: transparent;
+	background-color: transparent;
+	position: relative;
+	margin-right: -10000px;
+}
+.html {
+	background: #3D3D3D url("../images/load%20nepgen.gif?crc=361937822") no-repeat center top scroll;
+	background-size: contain;
+}
+body {
+	position: relative;
+	min-width: 960px;
+}
+.verticalspacer {
+	min-height: 98px;
+}

@@ -1,0 +1,101 @@
+<manifest alg="2" build="2018.1.0.386" opt="true" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="planeptune-bot.eu" resolutions="1x" timestamp="1542735619966">
+  <folder name="css">
+    <file name="site_global.css" crc="191400266"/>
+    <file name="planeptune-bot---commands.css" crc="432177027" ref="planeptune-bot---commands"/>
+    <file name="index.css" crc="347949132" ref="index"/>
+    <file name="ginnis.css" crc="4055933730" ref="ginnis"/>
+    <file name="iefonts_index.css" crc="3973948424" ref="index"/>
+    <file name="iefonts_ginnis.css" crc="4035471031" ref="ginnis"/>
+  </folder>
+  <folder name="fonts">
+    <file name="stop-webfont.woff" crc="134625494"/>
+    <file name="stop-webfont.eot" crc="4053337785"/>
+  </folder>
+  <folder name="assets">
+    <file name="load-nepgen.gif" crc="361937822" seo="true" mt="1541809349000"/>
+  </folder>
+  <folder name="scripts">
+    <file name="jquery-1.8.3.min.js" crc="209076791" ref="index:planeptune-bot---commands:ginnis"/>
+    <file name="museutils.js" crc="340535759" ref="index:planeptune-bot---commands:ginnis"/>
+    <file name="whatinput.js" crc="86476730" ref="index:planeptune-bot---commands:ginnis"/>
+    <file name="museconfig.js" crc="310584261" ref="index:planeptune-bot---commands:ginnis"/>
+    <file name="jquery.watch.js" crc="51536988" ref="index:planeptune-bot---commands:ginnis"/>
+    <file name="require.js" crc="7928878" ref="index:planeptune-bot---commands:ginnis"/>
+    <file name="jquery.scrolleffects.js" crc="39568856" ref="index"/>
+    <file name="jquery.musepolyfill.bgsize.js" crc="4260645839" ref="index:planeptune-bot---commands"/>
+  </folder>
+  <folder name="images">
+    <file name="planeptune-bot---home-favicon.ico" crc="374666401" ref="index"/>
+    <file name="nepgen finished signed.png" crc="238602348" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="pbot new.png" crc="136498635" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="discord_icon.svg" crc="3781831032" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="discord_icon_poster_.png" crc="3966459793" ref="index"/>
+    <file name="commands_icon.svg" crc="3827065402" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="commands_icon_poster_.png" crc="4025831328" ref="index"/>
+    <file name="click-me.svg" crc="425379643" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="click me_poster_.png" crc="186761703" ref="index"/>
+    <file name="scroll.svg" crc="3871883602" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="scroll_poster_.png" crc="3842106618" ref="index"/>
+    <file name="header_left.svg" crc="4292800657" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="header_left_poster_.png" crc="4119388977" ref="index"/>
+    <file name="header_right.svg" crc="97074430" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="header_right_poster_.png" crc="3964830847" ref="index"/>
+    <file name="header.svg" crc="325705000" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="header_poster_.png" crc="3807592919" ref="index"/>
+    <file name="bottom.svg" crc="426048850" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="bottom_poster_.png" crc="254235053" ref="index"/>
+    <file name="planeptune-bot---commands-favicon.ico" crc="374666401" ref="planeptune-bot---commands"/>
+    <file name="ginnis-favicon.ico" crc="4274575635" ref="ginnis"/>
+    <file name="blank.gif" crc="4208392903" ref="planeptune-bot---commands:ginnis:index"/>
+    <file name="pbot new207x207.png" crc="403069014" seo="true" ref="planeptune-bot---commands">
+      <caption webpage="planeptune-bot---commands" alt=""/>
+    </file>
+    <file name="nepmia test8.png" crc="172119771" seo="true" ref="planeptune-bot---commands:ginnis">
+      <caption webpage="planeptune-bot---commands" alt=""/>
+      <caption webpage="ginnis" alt=""/>
+    </file>
+    <file name="new haven.png" crc="55662185" seo="true" ref="ginnis">
+      <caption webpage="ginnis" alt=""/>
+    </file>
+    <file name="nepnis.png" crc="517148909" seo="true" ref="ginnis">
+      <caption webpage="ginnis" alt=""/>
+    </file>
+    <file name="embed_icon.svg" crc="3812580718" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="embed_icon_poster_.png" crc="4013182463" ref="index"/>
+    <file name="pbotbg.jpg" crc="3880603857" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="load nepgen.gif" crc="361937822" ref="planeptune-bot---commands">
+      <caption webpage="planeptune-bot---commands" alt=""/>
+    </file>
+  </folder>
+  <file name="index.html" crc="241734934" seo="true" mt="1542735612137" redirect="true"/>
+  <file name="planeptune-bot---commands.html" crc="159026268" seo="true" mt="1542734522518" redirect="true"/>
+  <file name="ginnis.html" crc="138061625" seo="true" mt="1542731618670" redirect="true"/>
+</manifest>
